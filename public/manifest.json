@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "charactersheet io",
+  "name": "Create a Character Sheet for DND 5e",
   "icons": [
     {
       "src": "favicon.ico",
